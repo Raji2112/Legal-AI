@@ -1,0 +1,6 @@
+{
+  "name": "LexiScan AI — Legal Document Analyzer",
+  "description": "Professional legal document analysis platform powered by AI. Summarize agreements, identify critical clauses, detect missing terms, and ask questions with cited excerpts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
